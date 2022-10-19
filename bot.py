@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxxx'
-compartmentId = 'xxxxxxxx'
-availabilityDomain = "xxxxxxxxx"
-imageId = "xxxxxxxxx"
-subnetId = 'xxxxxxxxxx'
-ssh_authorized_keys = "xxxxxxxxx"
+displayName = 'minecraft-vps'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaup5pisl3ygnxissen3jnrlfx57qgira2a3sfiz3xusl47gqa36hq'
+availabilityDomain = "tXvz:AP-SINGAPORE-1-AD-1"
+imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaav2nfrctnfspilj3ueob37g2yljyr7lhv663mpargajcunyqzjnla"
+subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaahkwsdtpkxa4eahogybybx5wdacmcvykgfv3ljwfmyuvnzfhevcya'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMjMdmJ1ouy3aKcRwwcRL+FL9cMiGllFKy5HHBdnyrcAwLY3EDMhllsSSL/1pDUXn6gTixdE92n42J4eRNesDkl1T53tXi6qN9rr/q0vuK3GN0XsU0oVdYmXczCx3bTevFpURxqer/pIfPIrm6T1unOHi3DQPXe+H/4J4LleGTGWz/QhMMjVzXbD3KH9P8ntjFe9e/bqMpzjO0r4RBX1ddPcBSr2Frb4tA8GkFJEOqHM2orDCj9YMcati5pLeBdggWLi8EdEofiG7QTta28gmip2VSpLIMOwBOfB/X5edwP5dvG2Md6fgxrZAhkrVDL+jGaRSP0WsDD+pzM0M5fSb1 ssh-key-2022-10-19"
 
 
 import oci
