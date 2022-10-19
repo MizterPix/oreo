@@ -1,9 +1,9 @@
-displayName = 'minecraft-vps'
+displayName = 'instance-20221019-2029'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaup5pisl3ygnxissen3jnrlfx57qgira2a3sfiz3xusl47gqa36hq'
 availabilityDomain = "tXvz:AP-SINGAPORE-1-AD-1"
 imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaav2nfrctnfspilj3ueob37g2yljyr7lhv663mpargajcunyqzjnla"
 subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaahkwsdtpkxa4eahogybybx5wdacmcvykgfv3ljwfmyuvnzfhevcya'
-ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMjMdmJ1ouy3aKcRwwcRL+FL9cMiGllFKy5HHBdnyrcAwLY3EDMhllsSSL/1pDUXn6gTixdE92n42J4eRNesDkl1T53tXi6qN9rr/q0vuK3GN0XsU0oVdYmXczCx3bTevFpURxqer/pIfPIrm6T1unOHi3DQPXe+H/4J4LleGTGWz/QhMMjVzXbD3KH9P8ntjFe9e/bqMpzjO0r4RBX1ddPcBSr2Frb4tA8GkFJEOqHM2orDCj9YMcati5pLeBdggWLi8EdEofiG7QTta28gmip2VSpLIMOwBOfB/X5edwP5dvG2Md6fgxrZAhkrVDL+jGaRSP0WsDD+pzM0M5fSb1 ssh-key-2022-10-19"
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDeCjKv+IfmVIDIs1nzd7yzlAp8K25NECQCM6vtsKYvGCCeIVlehXGUTmJzDxLL1Ra2PKeO/eEvH3tW89ehIG7OfthG3iseY+OjcN8q27xZ8vkm0F57i92MMuDLlU29DTQQ8Fwv+wHTHF7NRbngQchrgUJSiSuu8WK6R2zygsyBy08HUYWZKFIsbCg0PgdGwRnTk04q2ceKyddvKuc5fYxe+y7D5+OsTHw+W6uKjyKpk4C6iNhR61zvTLKuLKBGhYw/uUU2pmwKgI1Q5TVVPeWq/kLeqXs+lWy4sN+2AT0r/LKfkrF7oKSmvkzoe67MycFahQsKk/vNFQmzJtV5+fzf ssh-key-2022-10-19"
 
 
 import oci
